@@ -1,6 +1,6 @@
 ![My resume photo](http://dl4.joxi.net/drive/2020/09/07/0044/3678/2936414/14/2780b3c9c7.jpg)
 
-# NADEZHDA CHUKAVINA
+## NADEZHDA CHUKAVINA
 
 ### Junior Front-end Developer
 
@@ -72,6 +72,7 @@ Understand DOM node structure and BEM tree
 Photoshop (basic knowledge)
 Illustrator (confident user)
 Tilda Publishing (confident user)
+1C:Enterprise (confident user)
 
 ##### Soft skill
  \
