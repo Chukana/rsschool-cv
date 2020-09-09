@@ -8,21 +8,21 @@
 
 ---
 
-##### Contact Information
+##### CONTACT INFORMATION
   - +7(909)054-84-47
   - chukavina.nv@gmail.com
   - 426039 Russian Federation, Izhevsk, Bummashevskaya srt. 39-74
 
 ---
 
-##### Summary  
+##### SUMMARY  
 
 I am solutions-focused, team oriented front-end amateur begginer with a high level of interest to a new profession and a real zest for sharing my passion for web-products development. 
 I have been to 72 countries in the World. Speak English and French.  
 
 ---
 
-##### Career
+##### CAREER
 
 * **2018 - present    |   Oceania Cruises Inc.** | DESTINATION ASSISTANT
 
@@ -42,7 +42,7 @@ luggage and lost-and-found procedures
 
 ---
 
-##### Education
+##### EDUCATION
 
 * **2019     |    (МВЕУ) Private Education Institution of Higher Education Eastern European Institute**
 >Graphic and Web Design
@@ -59,22 +59,22 @@ Certificate of level A2.
 
 Five years of full-time study (8262 academic hours). The scale 5A of the International Stardard Classification of Education (ISCED).
 
-##### Professional skill
+##### PROFESSIONAL SKILLS
  \
 IELTS cetrificate B2 level 2018.
 
-> HTML5/CSS (basic level, use BOOTSRAP)
-JS (basics)
-Visual Studio Code
-Chrome DevTools (Basic knowledge)
-Functional debag
-Understand DOM node structure and BEM tree
-Photoshop (basic knowledge)
-Illustrator (confident user)
-Tilda Publishing (confident user)
-1C:Enterprise (confident user)
+>HTML5/CSS (basic level, use BOOTSRAP)
+>JS (basics)
+>Visual Studio Code
+>Chrome DevTools (Basic knowledge)
+>Functional debag
+>Understand DOM node structure and BEM tree
+>Photoshop (basic knowledge)
+>Illustrator (confident user)
+>Tilda Publishing (confident user)
+>1C:Enterprise (confident user)
 
-##### Soft skill
+##### SOFT SKILLS 
  \
 Technical education helps me to think mathematicaly and out of the box.
 I give a high value to a teamwork and opportunities to work on a project as one unit.
