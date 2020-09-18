@@ -1,0 +1,52 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html {
+  margin: 0;
+  padding: 0 0 500px 0;
+  font-family: Cambria, sans-serif;
+}
+body {
+  max-width: 1024px;
+  margin: 50px auto auto auto;
+}
+.page {
+  height: 1000px;
+  width: 900px;
+  align-items: center;
+}
+header {
+  float: center;
+  margin: 30px 15px 50px 15px;
+}
+img {
+  border-radius: 10px;
+}
+.personal {
+  display: flexbox;
+  float: right;
+}
+.title {
+  color: #d29762;
+}
+
+.tel {
+  list-style-image: url(icons8-ringing-phone-15.png);
+}
+.email {
+  list-style-image: url(icons8-envelope-15.png);
+}
+.address {
+  list-style-image: url(icons8-home-15.png);
+}
+table {
+  table-layout: fixed;
+  width: 100%;
+}
+tbody th:first-child {
+  width: 11em;
+  font-weight: bolder;
+  color: #d29762;
+}
