@@ -1,1 +1,1 @@
-http://Chukana.github.io/rsschool-cv/cv
+http://Chukana.github.io/rsschool-cv
